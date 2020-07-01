@@ -41,7 +41,7 @@ footer{
 }
 
 .profile{
-  margin: 50px auto 0 auto;
+  margin: 0px auto 0 auto;
   padding-bottom: 5px;
   text-align: center;
 }
@@ -55,13 +55,14 @@ footer{
   transform: translate(-50%, -55%);
 background-color: #fffaf9;
 border-radius: 10px;
-padding-top: 50px;
+padding-top: 100px;
+margin-top: 0;
 }
 
 .job-title{
 font-size: 1.5rem;
-margin-top: 75px;
-padding-top: 150px;
+margin-top: 100px;
+padding-top: 130px;
 }
 
 .swirl {
@@ -375,5 +376,6 @@ left: 2%;
 }
 
 .attribute{
-  font-size: 8px;
+  font-size: 10px;
+  margin-bottom: 10px;
 }
